@@ -15,6 +15,7 @@ section {
     text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5);
 }
 
+//Main body of the game
 .game--container {
     display: grid;
     grid-template-columns: repeat(3, auto);

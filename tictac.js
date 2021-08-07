@@ -1,5 +1,5 @@
 const statusDisplay = document.querySelector('.game--status');
-
+//Initial conditions
 let gameActive = true;
 let currentPlayer = "X";
 let gameState = ["", "", "", "", "", "", "", "", ""];
@@ -21,16 +21,19 @@ const winningConditions = [
     [2, 4, 6]
 ];
 
+//It will handle game play
 function handleCellPlayed(clickedCell, clickedCellIndex) {
     gameState[clickedCellIndex] = currentPlayer;
     clickedCell.innerHTML = currentPlayer;
 }
 
+//Change the player
 function handlePlayerChange() {
     currentPlayer = currentPlayer === "X" ? "O" : "X";
     statusDisplay.innerHTML = currentPlayerTurn();
 }
 
+//Check the result of the game
 function handleResultValidation() {
     let roundWon = false;
     for (let i = 0; i <= 7; i++) {
@@ -75,6 +78,7 @@ function handleCellClick(clickedCellEvent) {
     handleResultValidation();
 }
 
+//Restart the game
 function handleRestartGame() {
     gameActive = true;
     currentPlayer = "X";
