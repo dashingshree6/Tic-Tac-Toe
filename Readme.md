@@ -1,15 +1,5 @@
 # Grid game
 
-## Learning Competencies
-At the end of this you will learn
- - Breaking down the problem
- - Building web pages
- - Creating efficient animations for web games
- - Manipulating the document structure by using Document Object Model (DOM)
- - Storing your application data in the client-side database
- - Working with server and fetching data from it by manipulating it
- - Process of developing a product
-
 ## Problem Statement: 
 >It's play time, people!    
 Many kids initial fascination with computers, like that of nerdy kids, had to do with computer games. They were drawn into the tiny simulated worlds that they could manipulate and in which stories (sort of) unfolded—more, I suppose, because of the way they projected their imagination into them than because of the possibilities they actually offered.  
