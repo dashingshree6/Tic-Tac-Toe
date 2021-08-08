@@ -1,7 +1,7 @@
-# Milestone-3: Grid game
+# Grid game
 
 ## Learning Competencies
-At the end of this milestone you will learn
+At the end of this you will learn
  - Breaking down the problem
  - Building web pages
  - Creating efficient animations for web games
