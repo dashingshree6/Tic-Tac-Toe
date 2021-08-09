@@ -65,7 +65,7 @@ function handleResultValidation() {
 
     handlePlayerChange();
 }
-
+//Handle Events
 function handleCellClick(clickedCellEvent) {
     const clickedCell = clickedCellEvent.target;
     const clickedCellIndex = parseInt(clickedCell.getAttribute('data-cell-index'));
