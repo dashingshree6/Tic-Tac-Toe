@@ -1,14 +1,4 @@
-# Milestone-3: Grid game
-
-## Learning Competencies
-At the end of this milestone you will learn
- - Breaking down the problem
- - Building web pages
- - Creating efficient animations for web games
- - Manipulating the document structure by using Document Object Model (DOM)
- - Storing your application data in the client-side database
- - Working with server and fetching data from it by manipulating it
- - Process of developing a product
+# Grid game
 
 ## Problem Statement: 
 >It's play time, people!    
