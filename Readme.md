@@ -1,6 +1,6 @@
 # Grid game
 
-  input by handling key events.
+   key events.
 >### 1.Image Puzzle game:
 >Image puzzle is a game where you can drag and drop image parts to swap and re-arrange the parts to form the complete image.  
 You can play the game online [here](http://www.anuraggandhi.com/imagepuzzle/puzzle.html)  
