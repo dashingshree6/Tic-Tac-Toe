@@ -1,7 +1,6 @@
 # Grid game
 
-
-We will use the browser DOM to display the game, and we’ll read user input by handling key events.
+ and we’ll read user input by handling key events.
 >### 1.Image Puzzle game:
 >Image puzzle is a game where you can drag and drop image parts to swap and re-arrange the parts to form the complete image.  
 You can play the game online [here](http://www.anuraggandhi.com/imagepuzzle/puzzle.html)  
