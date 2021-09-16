@@ -1,6 +1,6 @@
 # Grid game
 
- swap it. You need to swap them in a way it form the correct image. The number of steps taken to drag and drop the image parts will be counted. So, you may wish to think and try to do it in minimum possible steps. The correct image is provided at right hand side for your reference.  
+You need to swap them in a way it form the correct image. The number of steps taken to drag and drop the image parts will be counted. So, you may wish to think and try to do it in minimum possible steps. The correct image is provided at right hand side for your reference.  
 The screen for the game looks like this:  
 ![image_puzzle](https://www.codeproject.com/KB/HTML/810978/lotus.jpg)
 >### 2.2048
