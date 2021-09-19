@@ -1,6 +1,6 @@
 # Grid game
 
- possible steps. The correct image is provided at right hand side for your reference.  
+ The correct image is provided at right hand side for your reference.  
 The screen for the game looks like this:  
 ![image_puzzle](https://www.codeproject.com/KB/HTML/810978/lotus.jpg)
 >### 2.2048
