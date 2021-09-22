@@ -1,6 +1,6 @@
 # Grid game
  
- screen for the game looks like this:  
+  for the game looks like this:  
 ![image_puzzle](https://www.codeproject.com/KB/HTML/810978/lotus.jpg)
 >### 2.2048
 >The objective of this game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with larger numbers.  
