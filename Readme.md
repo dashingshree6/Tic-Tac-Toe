@@ -1,7 +1,7 @@
 # Grid game
 
 >The objective of this game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with larger numbers.  
-For those  
+   
 >### 3.Tic-tac-toe
 >Tic-Tac-Toe is about Os and Xs or noughts and crosses . The rule of the game is very simple. On a 3x3 grid, a player has to match 3 consecutive Os or Xs horizontally/vertically/diagonally.  
 play the game [here](https://playtictactoe.org/)
