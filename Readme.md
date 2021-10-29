@@ -1,6 +1,6 @@
 # Grid game
 
-    the goal, creating tiles with larger numbers.  
+    , creating tiles with larger numbers.  
    
 >### 3.Tic-tac-toe
 >Tic-Tac-Toe is about Os and Xs or noughts and crosses . The rule of the game is very simple. On a 3x3 grid, a player has to match 3 consecutive Os or Xs horizontally/vertically/diagonally.  
